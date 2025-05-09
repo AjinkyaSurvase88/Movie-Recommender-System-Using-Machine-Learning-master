@@ -4,5 +4,10 @@ streamlit
 ### local packages -
 -e . 
 
+pandas
+numpy
+requests
+scikit-learn
 streamlit-lottie
+
 
